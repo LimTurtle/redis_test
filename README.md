@@ -72,3 +72,7 @@ print(pd.DataFrame(result)) #pandas의 DataFrame 형식은 해당 결과를 2차
     Sum of Total Time : 0.06701517105102539
     ```
     **-> Redis가 MySQL보다 조회 시간이 약 3배 더 빠른 것을 확인**
+
+# C++ MySQL 연동
+- [초기 설정](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=dd1587&logNo=221155813026)
+- [참조](https://m.blog.naver.com/PostView.naver?blogId=dd1587&logNo=221157117516&targetKeyword=&targetRecommendationCode=1)
