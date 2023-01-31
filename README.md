@@ -76,3 +76,22 @@ print(pd.DataFrame(result)) #pandas의 DataFrame 형식은 해당 결과를 2차
 # C++ MySQL 연동
 - [초기 설정](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=dd1587&logNo=221155813026)
 - [참조](https://m.blog.naver.com/PostView.naver?blogId=dd1587&logNo=221157117516&targetKeyword=&targetRecommendationCode=1)
+
+# C++ Redis 연동
+- [초기 설정](https://sanghun219.tistory.com/193)
+    - 이 때, 위 URL의 microsoft/hiredis 가 아닌 redis/hiredis 의 Release 다운
+    - 포함 디렉토리 경로는 CMake로 생성된 경로가 아닌, Release 를 다운 했던 경로
+- 사용법
+```cpp
+#include "Redis.h"
+
+int main()
+{
+    Redis* redis = new Redis(); //redis 초기설정
+    
+    redis->RedisQuery("SET foo hello"); //또는 redis->RedisQuery("SET %s %s", "foo", "hello")
+    const char* res = redis->RedisQuery("GET foo"); //또는 redis->RedisQuery("GET %s", "foo")
+    cout << res << endl;
+}
+
+```
