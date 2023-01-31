@@ -1,0 +1,7 @@
+C:/Users/pigwo/hiredis/hiredis.dir/MinSizeRel/alloc.obj
+C:/Users/pigwo/hiredis/hiredis.dir/MinSizeRel/async.obj
+C:/Users/pigwo/hiredis/hiredis.dir/MinSizeRel/hiredis.obj
+C:/Users/pigwo/hiredis/hiredis.dir/MinSizeRel/net.obj
+C:/Users/pigwo/hiredis/hiredis.dir/MinSizeRel/read.obj
+C:/Users/pigwo/hiredis/hiredis.dir/MinSizeRel/sds.obj
+C:/Users/pigwo/hiredis/hiredis.dir/MinSizeRel/sockcompat.obj

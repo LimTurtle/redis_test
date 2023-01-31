@@ -1,0 +1,8 @@
+C:/Users/pigwo/hiredis/CMakeFiles/hiredis_static.dir
+C:/Users/pigwo/hiredis/CMakeFiles/hiredis.dir
+C:/Users/pigwo/hiredis/CMakeFiles/hiredis-test.dir
+C:/Users/pigwo/hiredis/CMakeFiles/PACKAGE.dir
+C:/Users/pigwo/hiredis/CMakeFiles/RUN_TESTS.dir
+C:/Users/pigwo/hiredis/CMakeFiles/INSTALL.dir
+C:/Users/pigwo/hiredis/CMakeFiles/ALL_BUILD.dir
+C:/Users/pigwo/hiredis/CMakeFiles/ZERO_CHECK.dir

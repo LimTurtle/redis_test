@@ -1,0 +1,7 @@
+C:/Users/pigwo/hiredis/hiredis.dir/Debug/alloc.obj
+C:/Users/pigwo/hiredis/hiredis.dir/Debug/async.obj
+C:/Users/pigwo/hiredis/hiredis.dir/Debug/hiredis.obj
+C:/Users/pigwo/hiredis/hiredis.dir/Debug/net.obj
+C:/Users/pigwo/hiredis/hiredis.dir/Debug/read.obj
+C:/Users/pigwo/hiredis/hiredis.dir/Debug/sds.obj
+C:/Users/pigwo/hiredis/hiredis.dir/Debug/sockcompat.obj
