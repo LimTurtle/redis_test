@@ -1,3 +1,6 @@
+# Redis 명령어
+- [여기](https://sungwookkang.com/1313)를 참조
+
 # Python에서 Redis 사용법
 - Terminal에서 ``` pip install redis ``` 명령어 실행
 - 로컬 PC에서 Redis를 설치하고, Redis Server를 실행시킨 상태에서 진행해야 함
